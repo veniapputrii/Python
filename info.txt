@@ -1,5 +1,0 @@
-All of resources in this folder you can access it in :
-Reserved Python : https://flexiple.com/python/python-reserved-words
-What is Boolean : https://codehs.com/tutorial/evelyn/boolean-expressions-in-python#:~:text=A%20Boolean%20value%20is%20either,the%20Python%20type%20is%20bool.
-Symbols in Python : https://docs.python.org/3/genindex-Symbols.html
-what is string : https://ranyel.medium.com/introduction-to-strings-in-python-18caf6e02152#:~:text=In%20Python%2C%20strings%20are%20used,to%20work%20with%20strings%20efficiently.
