@@ -17,3 +17,10 @@
 alya = 450000
 
 #fix it here
+if alya > 300000:
+    discount = 0.15 * alya
+    price_total = alya - discount
+else:
+    price_total = alya
+    
+print(f"Alya has to pay : {price_total}")
