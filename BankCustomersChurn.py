@@ -5,6 +5,15 @@ import pandas as pd
 df = pd.read_csv('Dataset/Bank_Churn.csv')
 
 print(df.head())
+
+import csv
+from tabulate import tabulate # Muss mit 'pip install tabulate' installiert werden
+
+with open('Dataset/Bank_Churn.csv') as f:
+    contents = list(csv.reader(f))
+    # Zeigt die ersten 10 Zeilen schön formatiert an
+    print(tabulate(contents[:10], headers="firstrow", tablefmt="grid"))
+
 #Questions :
 #What attributes are more common among churners than non-churners? 
 
