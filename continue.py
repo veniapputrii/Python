@@ -4,8 +4,8 @@
 #example
 age = [12, 14, 15, 16, 18]
 for number in age :
-#print ("not eligible")
-if age >= 18:
+  #print ("not eligible")
+  if age >= 18:
     continue
-print("You're eligible to vote.")
-break
+  print("You're eligible to vote.")
+  break
