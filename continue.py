@@ -7,5 +7,5 @@ for number in age :
   #print ("not eligible")
   if age >= 18:
     continue
-  print("You're eligible to vote.")
+  print("You're eligible.")
   break
