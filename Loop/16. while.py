@@ -17,7 +17,8 @@ else:
     print("Loop is done")
     
 #✨ more ✨
-#What += means?
-#it adds the value on its right to the variable on its left and then assigns the result 
+#What + = means?
+# It adds the value on its right to the variable on its left and then assigns the result 
 #back to the variable on the left.
 #essentially, "a += b" is equivalent to "a = a + b"
+
