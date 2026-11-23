@@ -358,3 +358,9 @@ fig_dashboard2.update_traces(
     selector=dict(type="pie")
 )
 fig_dashboard2.show()
+
+eda['Segmentation'].value_counts()
+
+eda.isna().sum()
+
+eda
